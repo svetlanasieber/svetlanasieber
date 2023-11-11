@@ -4,14 +4,14 @@ I'm on an exciting journey learning web development and artificial intelligence 
 
 ## What I'm Up To
 
-- 🌐 Diving deep into C# and mastering the nuances of web development.
+- 🌐 Diving deep into .NET and mastering the nuances of Web development.
 - 🤖 Exploring the realm of Artificial Intelligence, where machines meet creativity.
 - 🛠️ Building and contributing to impactful projects that solve real-world problems.
 
 ## My Philosophy
 
 - 💡 "Think big, start small, learn fast." I believe in iterative learning and rapid prototyping.
-- 🚀 Passionate about technology as a means to improve everyday life and empower people.
+- 🚀 Passionate about technology as a means to improve everyday life.
 - 🌟 Striving for excellence, whether I'm refactoring code or learning a new algorithm.
 
 
