@@ -19,7 +19,7 @@ I'm on an exciting journey learning web development and artificial intelligence 
 - 👥 I'm looking to collaborate on open source projects and innovative tech initiatives.
 - 📫 Feel free to reach out to me for discussions on tech, collaboration, or just to say hi!
 
-[![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername)
+
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanasieber&layout=compact)
