@@ -14,10 +14,7 @@ I'm on an exciting journey learning web development and artificial intelligence 
 - 🚀 Passionate about technology as a means to improve everyday life and empower people.
 - 🌟 Striving for excellence, whether I'm refactoring code or learning a new algorithm.
 
-## Let's Connect
 
-- 👥 I'm looking to collaborate on open source projects and innovative tech initiatives.
-- 📫 Feel free to reach out to me for discussions on tech, collaboration, or just to say hi!
 
 
 
