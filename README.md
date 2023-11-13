@@ -8,11 +8,7 @@ I'm on an exciting journey learning Web Development and Artificial Intelligence 
 - 🤖 Exploring the realm of Artificial Intelligence, where machines meet creativity.
 - 🛠️ Building and contributing to impactful projects that solve real-world problems.
 
-## My Philosophy
 
-- 💡 "Think big, start small, learn fast." I believe in iterative learning and rapid prototyping.
-- 🚀 Passionate about technology as a means to improve everyday life.
-- 🌟 Striving for excellence, whether I'm refactoring code or learning a new algorithm.
 
 
 
