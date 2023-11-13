@@ -1,6 +1,6 @@
 # Welcome! I'm Svetlana Sieber 👋
 
-I'm on an exciting journey learning Web Development and Artificial Intelligence at the Software University ([SoftUni.bg](https://softuni.bg)). With a keen interest in software engineering, I thrive on tackling complex problems and turning them into innovative solutions.
+I'm on an exciting journey learning Web Development and Artificial Intelligence at the Software University ([SoftUni.bg](https://softuni.bg)). With a keen interest in Software Engineering, I thrive on tackling complex problems and turning them into innovative solutions.
 
 ## What I'm Up To
 
