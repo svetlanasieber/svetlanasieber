@@ -4,7 +4,7 @@
   AI is used to enhance the autonomous capabilities of robots, including sensor data processing, navigation, object recognition, and real-time decision making.
 
 🔧 My strength lies in Embedded Linux Programming, where I've harnessed the Yocto Project to create solutions that are both powerful and highly efficient. 
-Additionally, I possess extensive experience in programming various Microcontrollers, further enriching my expertise in embedded systems and allowing for a versatile approach in hardware-software integration.
+Additionally, I possess extensive experience in programming various Microcontrollers, further enriching my expertise in Embedded systems and allowing for a versatile approach in Hardware-software integration.
 
 ✨ I love exploring new horizons and applying theory into practice, turning complex concepts into real, functional projects.
 
