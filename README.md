@@ -10,7 +10,7 @@
 
 📚 Here, you'll find practical applications of what I've learned, showcasing my skills and development over time.
 
-🏅 I am also proud of the certificates I've earned from SoftUni, achieved through much hard work and dedication. They are a testament to my commitment and relentless pursuit of continuous learning and improvement.
+🏅 I am also proud of the certificates I've earned from SoftUni (Software University), achieved through much hard work and dedication. They are a testament to my commitment and relentless pursuit of continuous learning and improvement.
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanasieber&layout=compact)
