@@ -1,4 +1,4 @@
-🚀 Hello, world! I'm Svetlana Sieber, a true Computer Enthusiast with a burning passion for embedded systems and the latest technologies.
+🚀 Hello, world! I'm Svetlana Sieber, a true Computer Enthusiast with a burning passion for Embedded Systems and the Latest Technologies.
 
 💡 Currently, I am diving deep into the realm of Artificial Intelligence, exploring its exciting Applications in Robotics and low-level hardware programming.
 
