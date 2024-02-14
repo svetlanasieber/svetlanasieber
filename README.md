@@ -1,4 +1,4 @@
- I'm a true Computer Enthusiast with a burning passion for Embedded Systems and the Latest Technologies.
+ I'm a true Computer Enthusiast with a burning passion for Embedded Systems, Industrial Automation and the Latest Technologies.
 
 
 
