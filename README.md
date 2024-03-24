@@ -12,9 +12,11 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanasieber&layout=compact)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl&logoColor=white)
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 
