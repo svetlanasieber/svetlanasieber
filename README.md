@@ -11,6 +11,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanasieber&layout=compact)
 
-![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
 
 
