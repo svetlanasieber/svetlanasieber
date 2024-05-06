@@ -14,6 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanasieber&theme=light&layout=compact)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanasieber&langs_count=10&hide=javascript,html,css,php,python&layout=compact)
 
 
 
