@@ -1,15 +1,11 @@
-                                                                                             I'm a true Computer Enthusiast
 
-
-
-
-![Java_Logo svg_-2](https://github.com/svetlanasieber/svetlanasieber/assets/135451084/c110e6e0-cff4-4c83-a86d-6c30380493a7)
 
                                 
 
 
 
 
+![java-logo-black-and-white-1](https://github.com/svetlanasieber/svetlanasieber/assets/135451084/2b2317ed-abd3-4344-a758-6559ee9c8880)
 
 
 
