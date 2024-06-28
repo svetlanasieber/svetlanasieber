@@ -1,9 +1,8 @@
 # Hobby and Learning Repository
 
-Welcome to my hobby and learning repository! This is a space where I share my personal projects and experiments as I explore new ideas and technologies.
+Welcome to my Development Sandbox! This is a space where I share my personal projects and experiments as I explore new ideas and technologies.
 
-**Note:** 
-Since this repository is for personal and educational use only, I won't be sharing any work-related files or projects here. Thanks for understanding and happy coding!
+**Note:**  Since this repository is for personal and educational use only, I won't be sharing any work-related files or projects here. Thanks for understanding and happy coding!
 
 
 
