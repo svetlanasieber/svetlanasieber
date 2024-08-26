@@ -1,9 +1,1 @@
-
-
-
-
-
-                                                         ![cup-coffee-vector-32105493](https://github.com/user-attachments/assets/917a4de2-0f3d-47f3-9c51-27e3899b2b6f)
-
-
-
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/9ba73fc2-7835-47af-8544-f88eda30e615">
