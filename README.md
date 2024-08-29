@@ -1,2 +1,2 @@
 
-![Programmer in the night](https://github.com/user-attachments/assets/d00b6b09-d961-4c2d-a697-9a103efec994)
+![programmer](https://github.com/user-attachments/assets/e79954b3-4a0b-4a74-bc57-fc10fac51ff1)
